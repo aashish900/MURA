@@ -25,5 +25,5 @@ The model takes in one or more images and run it through the Neural Network and 
 The structure of network is as follows:
 
 <p align = "center">
-<img src="Dataset_Examples/Network_Model.PNG">
+<img width = "700" height = "150" src="Dataset_Examples/Network_Model.PNG">
 </p>
