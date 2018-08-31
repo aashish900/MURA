@@ -5,7 +5,8 @@ The dataset consists of 36,808 images which can be grouped into either of the fo
 
 Following are the examples of images from each of the group of dataset:
 
-## ELBOW
+
+## ELBOW 
 <p align = "left">
 <img width="200" height="200" src="Dataset_Examples/ELBOW.png">
 </p>
