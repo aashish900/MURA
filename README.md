@@ -5,38 +5,17 @@ The dataset consists of 36,808 images which can be grouped into either of the fo
 
 Following are the examples of images from each of the group of dataset:
 
-
-## ELBOW 
+## ELBOW  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FINGER  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FOREARM  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HAND
 <p align = "left">
 <img width="200" height="200" src="Dataset_Examples/ELBOW.png">
-</p>
-
-## FINGER
-<p align = "left">
 <img width="200" height="200" src="Dataset_Examples/FINGER.png">
-</p>
-
-## FOREARM
-<p align = "left">
 <img width="200" height="200" src="Dataset_Examples/FOREARM.png">
-</p>
-
-## HAND
-<p align = "left">
 <img width="200" height="200" src="Dataset_Examples/HAND.png">
 </p>
 
-## HUMERUS
+## HUMERUS  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SHOULDER  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WRIST
 <p align = "left">
 <img width="200" height="200" src="Dataset_Examples/HUMERUS.png">
-</p>
-
-## SHOULDER
-<p align = "left">
 <img width="200" height="200" src="Dataset_Examples/SHOULDER.png">
-</p>
-
-## WRIST
-<p align = "left">
 <img width="200" height="200" src="Dataset_Examples/WRIST.png">
 </p>
