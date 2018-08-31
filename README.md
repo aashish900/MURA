@@ -19,3 +19,11 @@ Following are the examples of images from each of the group of dataset:
 <img width="200" height="200" src="Dataset_Examples/SHOULDER.png">
 <img width="200" height="200" src="Dataset_Examples/WRIST.png">
 </p>
+
+
+The model takes in one or more images and run it through the Neural Network and then based on the average of the outcome of images, classify the X-Ray image(s) as normal or abnormal.
+The structure of network is as follows:
+
+<p align = "centre">
+<img src="Dataset_Examples/Network_Model.png">
+</p>
