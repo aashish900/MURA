@@ -24,6 +24,6 @@ Following are the examples of images from each of the group of dataset:
 The model takes in one or more images and run it through the Neural Network and then based on the average of the outcome of images, classify the X-Ray image(s) as normal or abnormal.
 The structure of network is as follows:
 
-<p align = "centre">
-<img src="Dataset_Examples/Network_Model.png">
+<p align = "center">
+<img src="Dataset_Examples/Network_Model.PNG">
 </p>
